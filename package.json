@@ -1,0 +1,23 @@
+{
+  "name": "jodelbot",
+  "version": "1.0.0",
+  "description": "A Bot for upvoting all posts in jodelbot",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.75.0",
+    "sleep": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "jodel",
+    "bot",
+    "upvote",
+    "posts"
+  ],
+  "author": "albertorositani",
+  "license": "ISC"
+}
